@@ -1,4 +1,4 @@
-# Ex.07 Restaurant Website
+6# Ex.07 Restaurant Website
 ## Date:13/12/25
 ### Ref:25018612
 
@@ -371,6 +371,11 @@ Publish the website in the given URL.
 
 ```
 ## OUTPUT:
+<img width="1920" height="1080" alt="menu" src="https://github.com/user-attachments/assets/35a74553-f088-4b47-b2fd-deb30ecc0a04" />
+<img width="1920" height="1080" alt="home" src="https://github.com/user-attachments/assets/165bb6f4-3d7b-467b-8ad5-d03d80d75516" />
+
+<img width="1920" height="1080" alt="contact" src="https://github.com/user-attachments/assets/585fc13a-8dfc-4cb3-b904-b1dfa80684dc" />
+<img width="1920" height="1080" alt="admin" src="https://github.com/user-attachments/assets/8f4db7b2-d9c2-4a16-a2c9-8d25c68536b6" />
 
 
 ## RESULT:
